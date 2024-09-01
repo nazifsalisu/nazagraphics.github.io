@@ -1,0 +1,76 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3a160;
+      }
+
+      .cls-2 {
+        fill: #f07d71;
+      }
+
+      .cls-3 {
+        fill: #e93f2e;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+      }
+
+      .cls-5 {
+        font-size: 67.89px;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-6 {
+        font-size: 31.34px;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-10, .cls-9 {
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-10 {
+        fill: none;
+        stroke-linecap: round;
+        stroke: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="237.39" y1="775.19" x2="467.92" y2="775.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3a160"/>
+      <stop offset="1" stop-color="#e93f2e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="235.69" y1="775.19" x2="469.62" y2="775.19" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="593.56" y1="775.19" x2="845.11" y2="775.19" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect width="1080" height="1080"/>
+  <g>
+    <g>
+      <rect class="cls-1" x="236.15" y="454.25" width="607.71" height="428.75"/>
+      <polygon class="cls-2" points="236.15 454.25 477.24 197 594.82 197 843.85 454.25 236.15 454.25"/>
+      <polygon class="cls-3" points="236.15 454.25 467.92 668.63 594.82 668.63 843.85 454.25 843.85 883 236.15 883 236.15 454.25"/>
+      <polygon class="cls-4" points="236.15 454.25 469.16 643.54 594.82 643.54 843.85 454.25 594.82 668.63 467.92 668.63 236.15 454.25"/>
+      <text class="cls-5" transform="translate(425.58 525.63)">OPENED</text>
+      <text class="cls-6" transform="translate(565.38 555.29)"><tspan class="cls-7">T</tspan><tspan x="14.32" y="0">ypin</tspan><tspan class="cls-8" x="71.65" y="0">g</tspan><tspan x="88.7" y="0">...</tspan></text>
+    </g>
+    <line class="cls-9" x1="467.92" y1="668.63" x2="237.39" y2="881.76"/>
+    <line class="cls-10" x1="842.61" y1="880.51" x2="596.06" y2="669.87"/>
+  </g>
+</svg>
